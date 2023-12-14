@@ -1,0 +1,10 @@
+
+.choice-box {
+  -fx-background-color: #778899;
+  -fx-mark-color: pink;
+  -fx-translate-x: 170;
+}
+
+.choice-box > .label { -fx-text-fill: white; }
+
+.choice-box .menu-item:focused > .label { -fx-text-fill: black; }

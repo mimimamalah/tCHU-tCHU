@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="projet">
+    <output-path>$PROJECT_DIR$/classes/artifacts/projet</output-path>
+    <root id="root">
+      <element id="archive" name="projet.zip">
+        <element id="directory" name="projet">
+          <element id="directory" name="src">
+            <element id="dir-copy" path="$USER_HOME$/Desktop" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
