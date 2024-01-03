@@ -1,8 +1,8 @@
 # tCHu-tCHu Game Enhancements
 
-Welcome to the enhanced version of tCHu-tCHU,  an exciting multiplayer game. This README outlines the latest improvements and features from a player's perspective.
+Welcome to the enhanced version of tCHu-tCHU, an exciting multiplayer game, inspired by Ticket to Ride board game. This README outlines the latest improvements and features from a player's perspective.
 
-![tCHU-tCHU Gameplay](gif/tCHU-tCHu.gif)
+![tCHU-tCHU Gameplay](gif/tCHu-tCHu.gif)
 
 ## Player Experience
 
